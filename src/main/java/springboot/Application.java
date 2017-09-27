@@ -19,7 +19,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 // 当项目运行时，Spring容器去自动查找带特定注解的类，如：带@Entity、@Service等类。
 public class Application {
     /*
-    langzhijie
+    langzhijie123
      */
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
